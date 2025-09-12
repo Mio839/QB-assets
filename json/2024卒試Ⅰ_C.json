@@ -664,7 +664,7 @@
     "answer": [
       "e"
     ],
-    "explanation": "エコーの所見と症状から肺血栓塞栓症を疑います。問題文に診断に使うスコアは何かと\nあるのでwells スコアが答えとなります。\na. ABCD2 スコア\nABCD2 スコアTIAにおいて、脳梗塞の発症リスクを評価する指標。年齢(Age:60歳以上=1点)、血圧\n(Blood pressure: 140/90 mmHg以上 $L=1\hbar)$、臨床症状(Clinical features: 片側の運動麻痺=2点、\n麻痺を伴わない言語障害 $=1\frac{\hbar}{m}$、持続時間(Duration: 60分以上=2点,10~59分=1点)、糖尿病\n(Diabetes:糖尿病=1点)の合計点が高いほどリスクが高い。3点以上かつ発症72時間以内の例は緊\n急入院の適応とされている。\nb. A-DROPスコア\n(CAP)、医療・介護関連肺炎(NHCAP) の評価で用いる。\nA (Age (年齢)):男性70歲以上,女性75歳以上\nD (Dehydration [脱水]) BUN 21 mg/dL以上or脱水あり\nR (Respiration (呼吸)) SoOz90%以下(PD260 Torr以下)\n(Orientation  見当 ):変容あり\nP (B.Pressure (   ) 血圧(収縮期)90mmHg以下\nc. CHADS2 スコア\nCHADS2 スコアは脳梗塞リスクを点数化するもので、スコアが高いほど脳梗塞発症リスクが高い。CHAD\nS2スコア1点以上が抗凝固療法の適応となり、2点以上では抗凝固療法の推奨度がより高い。\nd. SOFAスコア\n敗血症の診断スコア\ne. wells スコア\n深部静脈血栓症のスコア。",
+    "explanation": "エコーの所見と症状から肺血栓塞栓症を疑います。問題文に診断に使うスコアは何かとあるのでwellsスコアが答えとなります。\na. ABCD2 スコア\nABCD2 スコアTIAにおいて、脳梗塞の発症リスクを評価する指標。年齢(Age:60歳以上=1点)、血圧\n(Blood pressure: 140/90 mmHg以上、臨床症状(Clinical features: 片側の運動麻痺=2点、\n麻痺を伴わない言語障害、持続時間(Duration: 60分以上=2点,10~59分=1点)、糖尿病\n(Diabetes:糖尿病=1点)の合計点が高いほどリスクが高い。3点以上かつ発症72時間以内の例は緊\n急入院の適応とされている。\nb. A-DROPスコア\n(CAP)、医療・介護関連肺炎(NHCAP) の評価で用いる。\nA (Age (年齢)):男性70歲以上,女性75歳以上\nD (Dehydration [脱水]) BUN 21 mg/dL以上or脱水あり\nR (Respiration (呼吸)) SoOz90%以下(PD260 Torr以下)\n(Orientation  見当 ):変容あり\nP (B.Pressure (   ) 血圧(収縮期)90mmHg以下\nc. CHADS2 スコア\nCHADS2 スコアは脳梗塞リスクを点数化するもので、スコアが高いほど脳梗塞発症リスクが高い。CHAD\nS2スコア1点以上が抗凝固療法の適応となり、2点以上では抗凝固療法の推奨度がより高い。\nd. SOFAスコア\n敗血症の診断スコア\ne. wells スコア\n深部静脈血栓症のスコア。",
     "images": [],
     "explainImages": ["2024卒試Ⅰ_C(29).png", "2024卒試Ⅰ_C(30).png", "2024卒試Ⅰ_C(31).png", "2024卒試Ⅰ_C(32).png"]
   },
@@ -929,4 +929,5 @@
     "images": [],
     "explainImages": ["2024卒試Ⅰ_C(44).png", "2024卒試Ⅰ_C(45).png", "2024卒試Ⅰ_C(46).png","2024卒試Ⅰ_C(47).png","2024卒試Ⅰ_C(48).png"]
   }
+
 ]
